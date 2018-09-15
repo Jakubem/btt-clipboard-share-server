@@ -10,8 +10,9 @@
   "author": "Jakub Maksimowicz & Wojtek Połowniak",
   "license": "MIT",
   "dependencies": {
-    "btt": "^2.1.0",
+    "btt": "^3.0.0",
     "express": "^4.16.3",
+    "node-fetch-polyfill": "^2.0.6",
     "socket.io": "^2.1.1"
   }
 }
